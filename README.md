@@ -1,4 +1,5 @@
-# GOL
+# GOL 
+# Satyaa Suresh 
 
 This program plays Conway’s Game of Life.
 
