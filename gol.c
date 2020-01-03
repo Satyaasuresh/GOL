@@ -73,7 +73,7 @@ int connect_animation(void (*applfunc)(struct gol_data *data),
 void * partition(void * args);
 /* loop through play_gol round and implements visi functions */
 void *  visi_loop(void *args);
-/* name for visi (you may change the string value if you'd like) */
+/* name for visi */
 static char visi_name[] = "GOL!";
 pthread_mutex_t mutex;
 /**********************************************************/
